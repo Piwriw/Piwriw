@@ -4,6 +4,7 @@
 - 📫 Email:piwriw@163.com 
 - 🌱 Gitee:[https://gitee.com/piwriw](https://gitee.com/piwriw)
 - 💬 Public account: 今晚必早睡
+- ⚡ More:[About me](https://mp.weixin.qq.com/s/pasMSjJHKlUGmAbiYufimw)
 
 ### Languages and Tools:
 <img src="https://s1.ax1x.com/2023/02/10/pShitW4.png" align="left" width="50px">
