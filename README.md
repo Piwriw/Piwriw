@@ -2,7 +2,7 @@
 - 🔭 I’m Piwriw who is a romantic poet full of soul ...
 - 🚩: 🇨🇳
 - 📫 Email:piwriw@163.com 
-- 🌱 Gitee:[ttps://gitee.com/piwriw](https://gitee.com/piwriw)
+- 🌱 Gitee:[https://gitee.com/piwriw](https://gitee.com/piwriw)
 - 💬 Public account: 今晚必早睡
 
 ### Languages and Tools:
