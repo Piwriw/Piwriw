@@ -3,8 +3,9 @@
 - 📫 Email:piwriw@163.com 
 
 ### Languages and Tools:
-[![pShitW4.png](https://s1.ax1x.com/2023/02/10/pShitW4.png)](https://imgse.com/i/pShitW4)
-[![pShiYYF.jpg](https://s1.ax1x.com/2023/02/10/pShiYYF.jpg)](https://imgse.com/i/pShiYYF)
+<img src="https://s1.ax1x.com/2023/02/10/pShitW4.png" align="left" width="30px">
+<img src="https://s1.ax1x.com/2023/02/10/pShiYYF.jpg" align="left" width="30px">
+
 <!--
 **Piwriw/Piwriw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
