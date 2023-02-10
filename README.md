@@ -11,6 +11,13 @@
 <img src="https://s1.ax1x.com/2023/02/10/pShkwa6.png" align="left" width="50px">
 <img src="https://s1.ax1x.com/2023/02/10/pShiYYF.jpg" align="left" width="50px">
 
+<br/>
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Piwriw&show_icons=true" align="left" />
+
+
 <!--
 **Piwriw/Piwriw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,9 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-<br/>
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piwriw&show_icons=true" align="left" />
 
