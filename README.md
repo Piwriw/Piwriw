@@ -3,7 +3,9 @@
 - 🚩: 🇨🇳
 - 📫 Email:piwriw@163.com 
 - 🌱 Gitee:[https://gitee.com/piwriw](https://gitee.com/piwriw)
-- 💬 Public account: 今晚必早睡
+- 💬 I’m currently working on
+  - Go
+  - Java  
 - ⚡ More:[About me](https://mp.weixin.qq.com/s/pasMSjJHKlUGmAbiYufimw)
 
 
