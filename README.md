@@ -1,7 +1,10 @@
-<p align="right"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/piwriw/count.svg" />
+
+<p align='center'>
+    <a href="https://github.com/Electronic-Waste"><img src="/github-metrics.svg" alt="metrics"></a>
 </p>
+
+
+
 
 ### Hi there ，this is Piwriw👋
 - 🔭 I’m Joohwan who is a romantic poet full of soul ...
