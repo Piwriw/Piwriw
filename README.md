@@ -16,7 +16,9 @@
   - Cloud Native 
 - ⚡ More:[About me](https://mp.weixin.qq.com/s/pasMSjJHKlUGmAbiYufimw)
 - :black_nib:Blog:https://piwriw.github.io/
-
+- Award    
+    - KubeEdge <img width="10" height="10" src="https://kubeedge.io/img/avatar.png"> :Course Certification & Award of Excellence
+ https://github.com/kubeedge/community/issues/141
 
 <!-- ### Languages and Tools:
 <img src="https://s1.ax1x.com/2023/02/10/pShitW4.png" align="left" width="50px">
