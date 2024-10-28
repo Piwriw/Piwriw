@@ -17,7 +17,7 @@
 - ⚡ More:[About me](https://mp.weixin.qq.com/s/pasMSjJHKlUGmAbiYufimw)
 - :black_nib:Blog:https://piwriw.github.io/
 - Award    
-    - KubeEdge <img width="10" height="10" src="https://kubeedge.io/img/avatar.png"> :Course Certification & Award of Excellence
+    - <img width="25" height="25" src="https://kubeedge.io/img/avatar.png"> KubeEdge:Course Certification & Award of Excellence
  https://github.com/kubeedge/community/issues/141
 
 <!-- ### Languages and Tools:
