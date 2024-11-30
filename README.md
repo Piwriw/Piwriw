@@ -10,7 +10,6 @@
 - 🔭 I’m Joohwan who is a romantic poet full of soul ...
 - 🚩: 🇨🇳
 - 📫 Email:piwriw@163.com 
-- 🌱 Gitee:[https://gitee.com/piwriw](https://gitee.com/piwriw)
 - 💬 I’m currently working on
   - Go
   - Cloud Native 
