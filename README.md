@@ -10,7 +10,7 @@
 - 🔭 I’m Joohwan who is a romantic poet full of soul ...
 - 🚩: 🇨🇳
 - 📫 Email:piwriw@163.com 
-- 💬 I’m currently working on
+- 💬 I’m currently working on && **I am looking for an exciting job in the Cloud Native field.**
   - Go
   - Cloud Native 
 - ⚡ More:[About me](https://mp.weixin.qq.com/s/pasMSjJHKlUGmAbiYufimw)
