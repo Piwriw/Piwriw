@@ -29,10 +29,9 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piwriw&show_icons=true" align="right"/>
+<img src="https://github-contrib-stats.vercel.app/piwriw/contributed.svg" align="right"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Piwriw&show_icons=true" align="right" />
-<br/>
+    
 
 
 <!--
